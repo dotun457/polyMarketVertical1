@@ -5,10 +5,9 @@
 **Priority:** Critical
 
 ---
-
 ## Purpose
 
-V2 creates a **news-to-markets intelligence engine** that:
+V2 creates a [Nevua-markets style product](https://docs.nevua.markets/introduction/what-is-nevua-markets) — a **news-to-markets intelligence engine** that:
 - Fetches headlines from news providers continuously
 - Maps headlines to relevant Polymarket markets
 - Computes impact scores based on price movements
