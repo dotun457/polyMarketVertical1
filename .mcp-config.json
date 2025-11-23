@@ -1,0 +1,15 @@
+{
+  "sources": [
+    {
+      "type": "file",
+      "path": "./README.md"
+    },
+    {
+      "type": "file",
+      "path": "./docs",
+      "glob": "**/*.md"
+    }
+  ],
+  "description": "Minimal MCP config: instructs any MCP to index README.md and all Markdown files under /docs",
+  "notes": "Update this if you use a different MCP requiring alternate config keys"
+}
